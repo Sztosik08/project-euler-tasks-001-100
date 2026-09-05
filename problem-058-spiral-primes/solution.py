@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 def isPrime(n):
     if n < 2:
         return False
@@ -15,7 +14,6 @@ def get_prime_ratio(list_p): # not necessary at the end of the day
     return count_p/len(list_p)
 
 
-# --- Attempt 2 ---
 # FROM PROBLEM 28 where we looked for the sum of the numners on the diagonals we got :
 
 

@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 def is_Palindrome(n):
     return list(map(int, str(n))) == list(map(int, str(n)))[::-1]
 
@@ -6,7 +5,6 @@ def reverse(n):
     return int(str(n)[::-1])
 
 
-# --- Attempt 2 ---
 lychrel_n = 0
 
 for i in range(1, 10001):

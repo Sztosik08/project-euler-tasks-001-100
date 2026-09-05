@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 def isPandigital(n):
     if len(list(map(int, str(n)))) != 9:
         return False
@@ -13,7 +12,6 @@ def firstDigit(n):
     return int(n)
 
 
-# --- Attempt 2 ---
 # we look for the largest number so we only take into account numbers starting with 9
 mults = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 nrs = list(range(1,10000))
@@ -30,5 +28,4 @@ for nr in nrs:
         
 
 
-# --- Attempt 3 ---
 print(max(ans_38))

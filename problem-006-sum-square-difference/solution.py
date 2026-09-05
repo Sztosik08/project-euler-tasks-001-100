@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 from functools import reduce 
 
 # print(result1_6)
@@ -10,7 +9,6 @@ print(result2_6)
 print(f"final result: {result2_6-result1_6}")
 
 
-# --- Attempt 2 ---
 n_6 = 100
 
 square_of_sum = n_6 ** 2 * (n_6+1) ** 2 * 1/4

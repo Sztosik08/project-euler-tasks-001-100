@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 # words_i_need = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen",
 #                "seventeen", "eighteen", "nineteen", "twenty", "thirty", "fourty", "fifty", "sixty", "seventy", "eighty", "ninety", "hundred", "thousand"]
 
@@ -66,7 +65,6 @@ def letter_counter(n, dict_n):
         return word
 
 
-# --- Attempt 2 ---
 sum_17 = 0
 for i in range(1,1001):
     word_17 = ''.join(letter_counter(i, number_to_word))

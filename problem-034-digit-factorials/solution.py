@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 #check for the upper bound
 
 import matplotlib.pyplot as plt
@@ -15,7 +14,6 @@ plt.grid(True)
 plt.show()
 
 
-# --- Attempt 2 ---
 # visualization is nice but let's check the numbers themselves
 
 # 7-digit number
@@ -30,7 +28,6 @@ print(f(999999999))
 # i wouldn't go beyond the 7-digit number - the sums are not growing much beyond that 
 
 
-# --- Attempt 3 ---
 f_of_dig = []
 
 for i in range(10, f(9999999)+1):
@@ -40,5 +37,4 @@ for i in range(10, f(9999999)+1):
 print(f_of_dig)
 
 
-# --- Attempt 4 ---
 print(sum(f_of_dig))

@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 f = open("0067_triangle.txt")
 content = f.read()
 raw_content = content.split()
@@ -18,11 +17,9 @@ for i in range(1, 101):
     
 
 
-# --- Attempt 2 ---
 print(triangle67)
 
 
-# --- Attempt 3 ---
 for r in range(len(triangle67)-2, -1, -1):
     for j in range(r + 1): triangle67[r][j] += max(triangle67[r+1][j], triangle67[r+1][j+1])
 

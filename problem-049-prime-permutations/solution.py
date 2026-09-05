@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 import math
 
 def isPrime(n):
@@ -16,7 +15,6 @@ def is_permutation(a, b):
         return True
 
 
-# --- Attempt 2 ---
 primes_4 = []
 for i in range(1000,10000):
     if isPrime(i):
@@ -24,7 +22,6 @@ for i in range(1000,10000):
         
 
 
-# --- Attempt 3 ---
 permutations_4 = []
 for i in range(len(primes_4)):
     curr_perm = [primes_4[i]]
@@ -41,7 +38,6 @@ for i in range(len(primes_4)):
         continue
 
 
-# --- Attempt 4 ---
 from itertools import combinations
 solution = []
 for per in permutations_4:
@@ -53,6 +49,5 @@ for per in permutations_4:
 print(solution)
 
 
-# --- Attempt 5 ---
 for item in solution:
     print(''.join(map(str, item)))

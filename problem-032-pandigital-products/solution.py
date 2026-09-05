@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 def ispandigital(string):
     if len(string) != 9:
         return False
@@ -33,6 +32,5 @@ for i in range(1, 98766):
     
 
 
-# --- Attempt 2 ---
 print(feasable_products)
 print(sum(feasable_products))

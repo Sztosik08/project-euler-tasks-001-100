@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 import math
 def n3(n):
     return (n*(n+1))//2
@@ -19,7 +18,6 @@ def is_set(a, b):
     return str(a)[2:] == str(b)[:2]
 
 
-# --- Attempt 2 ---
 functs = [n3, n4, n5, n6, n7, n8]
 viable_nr = []
 
@@ -36,7 +34,6 @@ for fun in functs:
     
 
 
-# --- Attempt 3 ---
 # solution 1
 
 from itertools import permutations
@@ -68,7 +65,6 @@ for p in perm:
                                                 break
 
 
-# --- Attempt 4 ---
 # solution 2
 
 def build_chain(chain, remaining_sets):

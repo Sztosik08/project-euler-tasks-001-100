@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 # okay now we may use some functions from the previous task :)
 # this time we want to minimise the totient function which could be minimised 
 # n/function will be minimised when n is a product of some larger primes 
@@ -7,11 +6,9 @@ def is_permutation(a,b):
     return sorted(list(str(a))) == sorted(list(str(b)))
 
 
-# --- Attempt 2 ---
 print((10**7)**0.5)
 
 
-# --- Attempt 3 ---
 to_check = primes_less_than(4000)
 mn_ratio = float('inf')
 mn_n = 0

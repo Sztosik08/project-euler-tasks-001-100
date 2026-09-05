@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 def gen_collatz_seq(n):
     sequence = [n]
     curr_n = n
@@ -17,7 +16,6 @@ for i in range(1,1000000):
     sequences.append(i_th_seq)
 
 
-# --- Attempt 2 ---
 len_seq = []
 for i in range(len(sequences)):
     len_seq.append(len(sequences[i]))

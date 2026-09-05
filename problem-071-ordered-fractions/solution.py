@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 best_n, best_d = 0, 1
 
 for d in range(1, 1000001):
@@ -9,7 +8,6 @@ for d in range(1, 1000001):
 print(best_n)
 
 
-# --- Attempt 2 ---
 # brute force
 
 import math
@@ -24,7 +22,6 @@ for d in range(1,1000001):
 print("hello")
 
 
-# --- Attempt 3 ---
 answ = 0
 m = 0
 for l in viable:

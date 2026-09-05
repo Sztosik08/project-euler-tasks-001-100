@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 # n from r - there's proba
 import math
 def n_from_r(n, r):
@@ -14,7 +13,6 @@ for n in range(1,101):
 print(counter)
 
 
-# --- Attempt 2 ---
 # quicker
 count_v2 =0
 for n in range(1,101):

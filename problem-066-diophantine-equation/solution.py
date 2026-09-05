@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 # tried brute force initially but failed (for some the x is astronomically largr)
 def get_min_solution(d):
     if is_perfect_square(d):
@@ -13,7 +12,6 @@ def get_min_solution(d):
         x +=1
 
 
-# --- Attempt 2 ---
 # another approach - the minimal solution is always found in the convergents of D**0.5 continued fraction :o
 
 # we already got this from previous task
@@ -43,7 +41,6 @@ def get_period_sq(n):
     return period
 
 
-# --- Attempt 3 ---
 def get_min_sol2(d):
     if is_perfect_square(d):
         return None
@@ -63,7 +60,6 @@ def get_min_sol2(d):
         i += 1
 
 
-# --- Attempt 4 ---
 max_x, d = 0, 0
 
 for i in range(2,1001):

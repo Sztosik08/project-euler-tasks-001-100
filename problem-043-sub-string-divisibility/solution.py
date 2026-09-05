@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 def check_divisions(n):
     divisors = [2,3,5,7,11,13,17]
     if len(n) != 10:
@@ -12,7 +11,6 @@ def check_divisions(n):
         
 
 
-# --- Attempt 2 ---
 from itertools import permutations
 
 digits = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
@@ -23,7 +21,6 @@ for number in tups:
     numbers.append(list(number))
 
 
-# --- Attempt 3 ---
 answer_43 = []
 for number in numbers:
     if check_divisions(number) == True:
@@ -31,5 +28,4 @@ for number in numbers:
     
 
 
-# --- Attempt 4 ---
 print(sum(answer_43))

@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 def isPrime(n):
     for i in range(2,int(n**0.5)+1):
         if n%i==0:
@@ -7,7 +6,6 @@ def isPrime(n):
     return True
 
 
-# --- Attempt 2 ---
 primes_10 = []
 for i in range(2,2000000):
     if isPrime(i) == True:
@@ -16,7 +14,6 @@ for i in range(2,2000000):
 print(sum(primes_10))
 
 
-# --- Attempt 3 ---
 #other solution
 
 def P10(n):

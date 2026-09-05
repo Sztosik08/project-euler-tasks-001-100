@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 # a + b + c = p 
 # a^2 + b^2 = c^2 
 
@@ -25,6 +24,5 @@ for p in range(12, 1001):
     
 
 
-# --- Attempt 2 ---
 ans_39 = max(counts, key=counts.get)
 print(ans_39)

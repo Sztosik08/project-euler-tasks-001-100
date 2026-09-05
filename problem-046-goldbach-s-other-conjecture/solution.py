@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 import math
 
 def isPrime(n):
@@ -16,7 +15,6 @@ def isPerfectSquare(n):
     return root * root == n
 
 
-# --- Attempt 2 ---
 # solution 1 with a bound on the i (squared number)
 
 def is_Goldbach(n):
@@ -36,7 +34,6 @@ def is_Goldbach(n):
     return a
 
 
-# --- Attempt 3 ---
 # faster solution without a loop on the i
 
 def is_Goldbach(n):
@@ -54,7 +51,6 @@ def is_Goldbach(n):
     return a
 
 
-# --- Attempt 4 ---
 a = 9
 
 while is_Goldbach(a) !=a:

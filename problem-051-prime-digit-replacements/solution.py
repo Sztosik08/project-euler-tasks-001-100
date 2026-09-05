@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 import math
 # sieve of eratosthenes
 def primes_less_than(n):
@@ -24,7 +23,6 @@ def isPrime(n):
     return True
 
 
-# --- Attempt 2 ---
 # what does the problem tells me about the numbers:
 #   - cannot start with a leading 0 
 #   - I won't loop through the last digit cause it cannot be: 0, 2, 4, 5, 6, 8
@@ -38,13 +36,11 @@ def isPrime(n):
     
 
 
-# --- Attempt 3 ---
 from itertools import combinations
 positions_6 = list(combinations(range(5), 3))  # exclude last position (5)
 print(positions_6)
 
 
-# --- Attempt 4 ---
 # try the 6 digit numbers
 full_set = primes_less_than(1000000)
 primes_5digits = primes_less_than(100000)
@@ -70,7 +66,6 @@ for prime in prime_set:
         
 
 
-# --- Attempt 5 ---
 # check in possibilities where do I have 8 primes 
 
 possibilities = []
@@ -85,7 +80,6 @@ for c in nr_combinations:
         possibilities.append(c)
 
 
-# --- Attempt 6 ---
 # find the minimum value as I had duplicates
 minim = 999999
 for p in possibilities:

@@ -1,4 +1,4 @@
-# --- Attempt 1 ---
+
 # narrowing the scope to avoid pure bruteforce :) :
 #   because n=0 for 1st iteration the function f(n) = n**2 + an + b gives b for n=0 so b has to be a prime
 
@@ -31,7 +31,7 @@ for item in b_27:
         
 
 
-# --- Attempt 2 ---
+
 #consecutive primes 
 cons_primes = []
 for pair in pairs_27:
@@ -44,7 +44,7 @@ for pair in pairs_27:
             break
 
 
-# --- Attempt 3 ---
+
 max_cons_primes = max(cons_primes)
 
 index_of_primes = cons_primes.index(max_cons_primes)

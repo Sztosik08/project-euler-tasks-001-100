@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 from functools import reduce
 
 def factors(n):
@@ -61,7 +60,6 @@ def isPrime(n):
     return True
 
 
-# --- Attempt 2 ---
 a = primes_less_than(1000000)
 
 total = 2

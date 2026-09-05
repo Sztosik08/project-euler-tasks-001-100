@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 def isPrime(n):
     if n < 2:
         return False
@@ -26,7 +25,6 @@ def rotate_digits(num):
     return rotations
 
 
-# --- Attempt 2 ---
 circ_primes = [2]
 
 for i in range(1,1000001):
@@ -36,6 +34,5 @@ for i in range(1,1000001):
             circ_primes.append(i)
 
 
-# --- Attempt 3 ---
 print(circ_primes)
 print(len(circ_primes))

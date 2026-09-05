@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 fibonaci = [1,2]
 for x in range(100000):
     fibonaci.append(fibonaci[x]+fibonaci[x+1])
@@ -9,7 +8,6 @@ for x in range(100000):
 print(fibonaci[-1])
 
 
-# --- Attempt 2 ---
 sum_even = 0
 even_list = []
 for x in range(len(fibonaci)):

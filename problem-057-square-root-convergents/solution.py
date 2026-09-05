@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 # we got:
 #   - 3/2
 #   - 7/5
@@ -24,6 +23,5 @@ for i in range(0, 1001):
 print(count)
 
 
-# --- Attempt 2 ---
 for i in range(4):
     print(nums[i], dens[i])

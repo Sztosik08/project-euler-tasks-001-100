@@ -1,11 +1,9 @@
-# --- Attempt 1 ---
 import math
 
 def is_perfect_square(n):
     return math.sqrt(n) == math.floor(math.sqrt(n))
 
 
-# --- Attempt 2 ---
 # we start with a_0 which is the 1st int in the sequence and a_0 = int(n**0.5)
 
 # then a_i+1 = ((a_0+m_i+1)/d_i+1) where:
@@ -41,7 +39,6 @@ def get_period_sq(n):
     return period_count, period
 
 
-# --- Attempt 3 ---
 count = 0
 
 for i in range(1, 10001):

@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 import math
 # sieve of eratosthenes
 def primes_less_than(n):
@@ -27,7 +26,6 @@ def pairs_with(a,b):
     return isPrime(int(str(a)+str(b))) and isPrime(int(str(b)+str(a)))
 
 
-# --- Attempt 2 ---
 test_primes = primes_less_than(10001)
 
 valid_test_pairs = []

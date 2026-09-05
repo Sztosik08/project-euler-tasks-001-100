@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 # let's think of it as ab / cd where I want to exclude the trivial examples so a, b, c, d != 0 
 
 to_remove = [i for i in range(10,100,10)]
@@ -32,7 +31,6 @@ for num in nums_33:
                
 
 
-# --- Attempt 2 ---
 for n, d in zip(n_33, d_33):
     print(f"{n}/{d}")
     

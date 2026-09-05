@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 #brute force
 fibonaci = [1,1]
 x = 0
@@ -11,7 +10,6 @@ while len_of_last_idx != 1000:
 print(len(fibonaci))
 
 
-# --- Attempt 2 ---
 # "calculator" solution
 import math
 # because of the golden ratio fibonaci terms converge to n * Phi = n+1

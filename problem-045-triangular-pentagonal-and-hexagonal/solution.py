@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 def tri(x):
     return (x*(x+1))//2
 
@@ -10,7 +9,6 @@ def hexa(x):
     
 
 
-# --- Attempt 2 ---
 def is_tri_nr(n):
     x = (-1 + math.sqrt(8*n+1)) / 2
     return x == int(x)
@@ -24,11 +22,9 @@ def is_hex_nr(n):
     return x == int(x)
 
 
-# --- Attempt 3 ---
 print(hexa(143))
 
 
-# --- Attempt 4 ---
 # i = 40755 is tri pent and 143th hex. We'll be checking only hex_nrs  
 n = 144
 i = hexa(n)

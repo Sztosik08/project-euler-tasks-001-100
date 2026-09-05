@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 # sequence in a fraction
 
 def fractionToDecimal(numr, denr):
@@ -35,6 +34,5 @@ for i in range(1, 1000):
     sequences_26.append(fractionToDecimal(1, i))
 
 
-# --- Attempt 2 ---
 longest_recurr = max(sequences_26, key=len)
 print(sequences_26.index(longest_recurr)+1)

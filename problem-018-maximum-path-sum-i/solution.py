@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 raw_18 = '''75
 95 64
 17 47 82
@@ -24,7 +23,6 @@ for i in range(0, len(data_18)):
     
 
 
-# --- Attempt 2 ---
 for r in range(len(triangle18)-2, -1, -1):
     for j in range(r + 1): triangle18[r][j] += max(triangle18[r+1][j], triangle18[r+1][j+1])
 

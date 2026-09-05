@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 f = open("0054_poker.txt")
 content = f.read()
 raw_content = content.split()
@@ -11,7 +10,6 @@ for i in range(0, len(raw_content), 10):
     
 
 
-# --- Attempt 2 ---
 from collections import Counter
   
 def parse_hand(hand):
@@ -30,11 +28,9 @@ def are_consecutive(a):
     return sorted(a) == list(range(min(a), max(a) + 1))
 
 
-# --- Attempt 3 ---
 print(parse_hand(player1_hands[0]))
 
 
-# --- Attempt 4 ---
 def evaluate_hand(hand):
     values, suits = parse_hand(hand)
     counts = Counter(values)
@@ -73,7 +69,6 @@ def evaluate_hand(hand):
     
 
 
-# --- Attempt 5 ---
 p1_wins = 0
 for h1, h2 in zip(player1_hands, player2_hands):
     if evaluate_hand(h1) > evaluate_hand(h2):

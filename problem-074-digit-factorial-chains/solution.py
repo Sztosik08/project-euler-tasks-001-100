@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 import math
 
 
@@ -21,12 +20,10 @@ def produce_chain(n):
     return chain 
 
 
-# --- Attempt 2 ---
 answ = 0
 for i in range(1,10**6):
     if len(produce_chain(i)) == 60:
         answ +=1
 
 
-# --- Attempt 3 ---
 print(answ)

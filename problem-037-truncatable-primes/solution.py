@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 def isPrime(n):
     if n < 2:
         return False
@@ -17,7 +16,6 @@ def isPrime(n):
 # result = int("".join(map(str, digits)))
 
 
-# --- Attempt 2 ---
 n = 3797
 lis = []
 
@@ -32,7 +30,6 @@ while len(digits) >0:
     digits.pop(0)
 
 
-# --- Attempt 3 ---
 n = 11 #next prime after 7 
 primes_37 = []
 lis = []
@@ -60,6 +57,5 @@ print(sum(primes_37))
     
 
 
-# --- Attempt 4 ---
 print(primes_37)
 print(sum(primes_37))

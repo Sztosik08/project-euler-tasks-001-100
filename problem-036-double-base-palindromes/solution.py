@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 def isPalindrome(n):
     res = list(map(int, str(n)))
     last_to_1st = []
@@ -10,7 +9,6 @@ def isPalindrome(n):
         return False
 
 
-# --- Attempt 2 ---
 ans_36 = []
 for i in range(1, 1000001):
     if isPalindrome(i) == True:

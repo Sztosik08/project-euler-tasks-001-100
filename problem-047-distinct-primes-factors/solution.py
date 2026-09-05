@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 import math
 
 def isPrime(n):
@@ -24,7 +23,6 @@ def distinct_factors(n):
     return list(set(factors))
 
 
-# --- Attempt 2 ---
 nr_47 = []
 a = 646
 while len(nr_47) < 4:
@@ -35,10 +33,8 @@ while len(nr_47) < 4:
     a+=1
 
 
-# --- Attempt 3 ---
 print(nr_47)
 
 
-# --- Attempt 4 ---
 for number in nr_47:
     print(distinct_factors(number))

@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 def isPrime(n):
     if n < 2:
         return False
@@ -17,13 +16,11 @@ def isPandigital(n):
     
 
 
-# --- Attempt 2 ---
 a =4214124
 
 print(list(map(int, str(a)))[-1])
 
 
-# --- Attempt 3 ---
 pandigital_primes = []
 for i in range(1, 7654322):
     if list(map(int, str(i)))[-1] in [2, 4, 5, 6, 8, 0]:
@@ -35,5 +32,4 @@ for i in range(1, 7654322):
         continue
 
 
-# --- Attempt 4 ---
 print(pandigital_primes)

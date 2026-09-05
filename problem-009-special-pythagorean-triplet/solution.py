@@ -1,4 +1,3 @@
-# --- Attempt 1 ---
 # normal solution
 
 def find_triplet(total):
@@ -17,7 +16,6 @@ if triplet is not None:
     print(a * b * c)
 
 
-# --- Attempt 2 ---
 # funny solution
 import math
 import random
