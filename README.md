@@ -97,8 +97,8 @@ The original combined notebooks (10 problems per file) are kept in `notebooks/` 
 | 69 | [Totient Maximum](https://projecteuler.net/problem=69) | Solved |
 | 70 | [Totient Permutation](https://projecteuler.net/problem=70) | Solved |
 | 71 | [Ordered Fractions](https://projecteuler.net/problem=71) | Solved |
-| 72 | [Counting Fractions](https://projecteuler.net/problem=72) | — |
-| 73 | [Counting Fractions in a Range](https://projecteuler.net/problem=73) | — |
+| 72 | [Counting Fractions](https://projecteuler.net/problem=72) | Solved |
+| 73 | [Counting Fractions in a Range](https://projecteuler.net/problem=73) | Solved |
 | 74 | [Digit Factorial Chains](https://projecteuler.net/problem=74) | Solved |
 | 75 | [Singular Integer Right Triangles](https://projecteuler.net/problem=75) | — |
 | 76 | [Counting Summations](https://projecteuler.net/problem=76) | — |
