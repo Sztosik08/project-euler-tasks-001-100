@@ -128,7 +128,7 @@ The original combined notebooks (10 problems per file) are kept in `notebooks/` 
 | 100 | [Arranged Probability](https://projecteuler.net/problem=100) | — |
 
 
-## Running a solution
+## To run a solution:
 
 ```bash
 python problem-001-multiples-of-3-or-5/solution.py
