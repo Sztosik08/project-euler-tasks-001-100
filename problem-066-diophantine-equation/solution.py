@@ -1,15 +1,27 @@
-# tried brute force initially but failed (for some the x is astronomically largr)
-def get_min_solution(d):
-    if is_perfect_square(d):
-        return False
-    x = 1
+import math
 
-    while True:
-        for y in range(1,x):
-            if x**2 - d*y**2 == 1:
-                return x
+def is_perfect_square(n):
+    if n < 0:
+        return False
+    else:
+        root = int(math.sqrt(n))
+        return root * root == n
+
+
+
+
+# # tried brute force initially but failed (for some the x is astronomically largr)
+# def get_min_solution(d):
+#     if is_perfect_square(d):
+#         return False
+#     x = 1
+
+#     while True:
+#         for y in range(1,x):
+#             if x**2 - d*y**2 == 1:
+#                 return x
                 
-        x +=1
+#         x +=1
 
 
 # another approach - the minimal solution is always found in the convergents of D**0.5 continued fraction :o
