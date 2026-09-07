@@ -100,9 +100,9 @@ The original combined notebooks (10 problems per file) are kept in `notebooks/` 
 | 72 | [Counting Fractions](https://projecteuler.net/problem=72) | Solved |
 | 73 | [Counting Fractions in a Range](https://projecteuler.net/problem=73) | Solved |
 | 74 | [Digit Factorial Chains](https://projecteuler.net/problem=74) | Solved |
-| 75 | [Singular Integer Right Triangles](https://projecteuler.net/problem=75) | — |
-| 76 | [Counting Summations](https://projecteuler.net/problem=76) | — |
-| 77 | [Prime Summations](https://projecteuler.net/problem=77) | — |
+| 75 | [Singular Integer Right Triangles](https://projecteuler.net/problem=75) | Solved |
+| 76 | [Counting Summations](https://projecteuler.net/problem=76) | Solved |
+| 77 | [Prime Summations](https://projecteuler.net/problem=77) | Solved |
 | 78 | [Coin Partitions](https://projecteuler.net/problem=78) | — |
 | 79 | [Passcode Derivation](https://projecteuler.net/problem=79) | — |
 | 80 | [Square Root Digital Expansion](https://projecteuler.net/problem=80) | — |
