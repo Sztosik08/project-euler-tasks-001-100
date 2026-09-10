@@ -105,7 +105,7 @@ The original combined notebooks (10 problems per file) are kept in `notebooks/` 
 | 77 | [Prime Summations](https://projecteuler.net/problem=77) | Solved |
 | 78 | [Coin Partitions](https://projecteuler.net/problem=78) | Solved |
 | 79 | [Passcode Derivation](https://projecteuler.net/problem=79) | Solved |
-| 80 | [Square Root Digital Expansion](https://projecteuler.net/problem=80) | — |
+| 80 | [Square Root Digital Expansion](https://projecteuler.net/problem=80) | Solved |
 | 81 | [Path Sum: Two Ways](https://projecteuler.net/problem=81) | — |
 | 82 | [Path Sum: Three Ways](https://projecteuler.net/problem=82) | — |
 | 83 | [Path Sum: Four Ways](https://projecteuler.net/problem=83) | — |
