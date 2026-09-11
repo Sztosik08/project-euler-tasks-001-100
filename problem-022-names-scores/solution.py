@@ -1,4 +1,4 @@
-f = open("0022_names.txt")
+f = open("problem-022-names-scores/names.txt")
 content = f.read()
 raw_content = content.split(",")
 import re

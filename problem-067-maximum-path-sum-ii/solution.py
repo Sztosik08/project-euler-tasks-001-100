@@ -1,4 +1,4 @@
-f = open("0067_triangle.txt")
+f = open("problem-067-maximum-path-sum-ii/triangle.txt")
 content = f.read()
 raw_content = content.split()
 
@@ -17,7 +17,7 @@ for i in range(1, 101):
     
 
 
-print(triangle67)
+# print(triangle67)
 
 
 for r in range(len(triangle67)-2, -1, -1):
