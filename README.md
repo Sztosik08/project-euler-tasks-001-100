@@ -124,7 +124,7 @@ The original combined notebooks (10 problems per file) are kept in `notebooks/` 
 | 96 | [Su Doku](https://projecteuler.net/problem=96) | — |
 | 97 | [Large Non-Mersenne Prime](https://projecteuler.net/problem=97) | Solved |
 | 98 | [Anagramic Squares](https://projecteuler.net/problem=98) | — |
-| 99 | [Largest Exponential](https://projecteuler.net/problem=99) | — |
+| 99 | [Largest Exponential](https://projecteuler.net/problem=99) | Solved |
 | 100 | [Arranged Probability](https://projecteuler.net/problem=100) | — |
 
 
