@@ -110,7 +110,7 @@ The original combined notebooks (10 problems per file) are kept in `notebooks/` 
 | 82 | [Path Sum: Three Ways](https://projecteuler.net/problem=82) | Solved |
 | 83 | [Path Sum: Four Ways](https://projecteuler.net/problem=83) | Solved |
 | 84 | [Monopoly Odds](https://projecteuler.net/problem=84) | Solved |
-| 85 | [Counting Rectangles](https://projecteuler.net/problem=85) | — |
+| 85 | [Counting Rectangles](https://projecteuler.net/problem=85) | Solved |
 | 86 | [Cuboid Route](https://projecteuler.net/problem=86) | — |
 | 87 | [Prime Power Triples](https://projecteuler.net/problem=87) | Solved |
 | 88 | [Product-sum Numbers](https://projecteuler.net/problem=88) | — |
