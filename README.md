@@ -120,7 +120,7 @@ The original combined notebooks (10 problems per file) are kept in `notebooks/` 
 | 92 | [Square Digit Chains](https://projecteuler.net/problem=92) | Solved |
 | 93 | [Arithmetic Expressions](https://projecteuler.net/problem=93) | — |
 | 94 | [Almost Equilateral Triangles](https://projecteuler.net/problem=94) | — |
-| 95 | [Amicable Chains](https://projecteuler.net/problem=95) | — |
+| 95 | [Amicable Chains](https://projecteuler.net/problem=95) | Solved |
 | 96 | [Su Doku](https://projecteuler.net/problem=96) | Solved |
 | 97 | [Large Non-Mersenne Prime](https://projecteuler.net/problem=97) | Solved |
 | 98 | [Anagramic Squares](https://projecteuler.net/problem=98) | — |
