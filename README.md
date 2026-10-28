@@ -113,7 +113,7 @@ The original combined notebooks (10 problems per file) are kept in `notebooks/` 
 | 85 | [Counting Rectangles](https://projecteuler.net/problem=85) | Solved |
 | 86 | [Cuboid Route](https://projecteuler.net/problem=86) | Solved |
 | 87 | [Prime Power Triples](https://projecteuler.net/problem=87) | Solved |
-| 88 | [Product-sum Numbers](https://projecteuler.net/problem=88) | — |
+| 88 | [Product-sum Numbers](https://projecteuler.net/problem=88) | Solved |
 | 89 | [Roman Numerals](https://projecteuler.net/problem=89) | Solved |
 | 90 | [Cube Digit Pairs](https://projecteuler.net/problem=90) | — |
 | 91 | [Right Triangles with Integer Coordinates](https://projecteuler.net/problem=91) | — |
