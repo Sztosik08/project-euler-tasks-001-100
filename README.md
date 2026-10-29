@@ -116,7 +116,7 @@ The original combined notebooks (10 problems per file) are kept in `notebooks/` 
 | 88 | [Product-sum Numbers](https://projecteuler.net/problem=88) | Solved |
 | 89 | [Roman Numerals](https://projecteuler.net/problem=89) | Solved |
 | 90 | [Cube Digit Pairs](https://projecteuler.net/problem=90) | Solved |
-| 91 | [Right Triangles with Integer Coordinates](https://projecteuler.net/problem=91) | — |
+| 91 | [Right Triangles with Integer Coordinates](https://projecteuler.net/problem=91) | Solved |
 | 92 | [Square Digit Chains](https://projecteuler.net/problem=92) | Solved |
 | 93 | [Arithmetic Expressions](https://projecteuler.net/problem=93) | — |
 | 94 | [Almost Equilateral Triangles](https://projecteuler.net/problem=94) | — |
