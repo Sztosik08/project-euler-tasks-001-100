@@ -123,7 +123,7 @@ The original combined notebooks (10 problems per file) are kept in `notebooks/` 
 | 95 | [Amicable Chains](https://projecteuler.net/problem=95) | Solved |
 | 96 | [Su Doku](https://projecteuler.net/problem=96) | Solved |
 | 97 | [Large Non-Mersenne Prime](https://projecteuler.net/problem=97) | Solved |
-| 98 | [Anagramic Squares](https://projecteuler.net/problem=98) | — |
+| 98 | [Anagramic Squares](https://projecteuler.net/problem=98) | Solved |
 | 99 | [Largest Exponential](https://projecteuler.net/problem=99) | Solved |
 | 100 | [Arranged Probability](https://projecteuler.net/problem=100) | — |
 
