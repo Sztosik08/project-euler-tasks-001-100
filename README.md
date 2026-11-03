@@ -119,7 +119,7 @@ The original combined notebooks (10 problems per file) are kept in `notebooks/` 
 | 91 | [Right Triangles with Integer Coordinates](https://projecteuler.net/problem=91) | Solved |
 | 92 | [Square Digit Chains](https://projecteuler.net/problem=92) | Solved |
 | 93 | [Arithmetic Expressions](https://projecteuler.net/problem=93) | Solved |
-| 94 | [Almost Equilateral Triangles](https://projecteuler.net/problem=94) | — |
+| 94 | [Almost Equilateral Triangles](https://projecteuler.net/problem=94) | Solved |
 | 95 | [Amicable Chains](https://projecteuler.net/problem=95) | Solved |
 | 96 | [Su Doku](https://projecteuler.net/problem=96) | Solved |
 | 97 | [Large Non-Mersenne Prime](https://projecteuler.net/problem=97) | Solved |
